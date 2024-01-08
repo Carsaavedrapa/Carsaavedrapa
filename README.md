@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [GetHome](https://github.com/Carsaavedrapa/c11-team2-GetHome)
 
-- 👨‍💻 All of my projects are available at [koru-test123.com](koru-test123.com)
+- 👨‍💻 All of my projects are available at [koru-test123.com](koryus.com)
 
 - 💬 Ask me about **ruby,react,css and emotion**
 
