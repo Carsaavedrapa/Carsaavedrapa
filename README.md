@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **carsaavedrapa@gmail.com**
 
-- ⚡ Fun fact **I like video games, especially mmorpg games.**
+- ⚡ Fun fact *I like video games, especially mmorpg games.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
