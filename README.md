@@ -55,6 +55,7 @@ Here are some of my projects:
 </p>
 
 ---
+📌 También disponible en español: [README_ES.md](README_ES.md)
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
