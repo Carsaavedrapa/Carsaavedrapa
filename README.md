@@ -47,17 +47,18 @@ Here are some of my projects:
 ---
 
 <h3 align="left">📫 Contact Me:</h3>
-<p>
-<a href="mailto:carsaavedrapa@gmail.com">📧 Email</a> |
-<a href="https://linkedin.com/in/carsaavedrapa">LinkedIn</a> |
-<a href="https://instagram.com/carsaavedrapa">Instagram</a> |
-<a href="https://discord.gg/korusaru">Discord</a>
+<p align="left">
+<a href="https://linkedin.com/in/carsaavedrapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carsaavedrapa" height="30" width="40" /></a>
+<a href="https://instagram.com/carsaavedrapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carsaavedrapa" height="30" width="40" /></a>
+<a href="https://discord.gg/carsaavedrapa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="korusaru" height="30" width="40" /></a>
 </p>
 
 ---
+
 📌 También disponible en español: [README_ES.md](README_ES.md)
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carsaavedrapa&show_icons=true&locale=en&layout=compact" alt="carsaavedrapa" />
 </p>
+
