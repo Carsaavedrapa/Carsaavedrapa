@@ -61,3 +61,10 @@ Transitioning into Project Management with strong analytical skills and business
   <img align="center" src="https://img.icons8.com/color/48/discord.png" alt="Discord" height="40"/>
 </a>
 </p>
+
+📌 Perfil También disponible en español: [README_ES.md](README_ES.md)
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carsaavedrapa&show_icons=true&locale=en&layout=compact" alt="carsaavedrapa" />
+</p>
