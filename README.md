@@ -12,7 +12,7 @@ Transitioning into Project Management with strong analytical skills and business
 ### 🚀 Current Focus Areas
 - **Project Management Fundamentals**: Agile, Scrum, Kanban
 - **Essential Tools**: Jira | Trello | Notion | Excel/Sheets
-- **Technical Literacy**: APIs | Databases | Basic DevOps Concepts
+- **Technical Literacy**: APIs | Databases | Intermediate DevOps Concepts
 - **Languages**: Spanish (Native) | English (B1 → B2 in progress) | Japanese (N5)
 
 ---
@@ -56,5 +56,8 @@ Transitioning into Project Management with strong analytical skills and business
 </a>
 <a href="carsaavedrapa.com">
   <img align="center" src="https://img.icons8.com/color/48/gmail.png" alt="Email" height="40"/>
+</a>
+<a href="https://discord.gg/korusaru">
+  <img align="center" src="https://img.icons8.com/color/48/discord.png" alt="Discord" height="40"/>
 </a>
 </p>
